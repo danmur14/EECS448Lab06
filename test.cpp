@@ -19,7 +19,7 @@ int Test::runTests()
 
     // output results
     std::cout << "\nTesting complete." << std::endl;
-    std::cout << "\nTests passed: " << total << "/8" << std::endl;
+    std::cout << "\nTests passed: " << total << "/9" << std::endl;
     return total;
 }
 
